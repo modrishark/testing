@@ -1,0 +1,2 @@
+/* window.console.log ne trebamo pisati window jer je po default-u se zna da je window tj. po defaultu javascript je u window elementu*/
+/* console.log('testing'); *//* string ide s '' no varijabla ide bez '' */
